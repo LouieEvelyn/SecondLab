@@ -17,6 +17,12 @@ h2
 	text-align: center;
 }
 
+div
+{
+	margin: 25;
+	border: 1px solid black;
+}
+
 .font
 {
 	font-family: "Courier New", Courier, monospace;
