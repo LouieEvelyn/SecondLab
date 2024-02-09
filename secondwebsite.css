@@ -1,0 +1,27 @@
+head
+{ 
+  background-color: #a591cc; 
+}
+
+body
+{
+  background-color: #eed0f5; 
+}
+
+h1
+{
+  color: purple;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2
+{
+	font-size: 35px;
+	text-align: center;
+}
+
+.font
+{
+	font-family: "Courier New", Courier, monospace;
+}
