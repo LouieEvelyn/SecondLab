@@ -32,7 +32,7 @@ div
 	font-family: "Courier New", Courier, monospace;
 }
 
-#image
+.image
 {
 	margin: 40px;
 }
