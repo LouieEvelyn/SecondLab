@@ -26,3 +26,8 @@ div
 {
 	font-family: "Courier New", Courier, monospace;
 }
+
+#image
+{
+	margin: 40px;
+}
