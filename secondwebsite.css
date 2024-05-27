@@ -6,7 +6,9 @@ body
 
 h1
 {
-	border: 5px solid #ebd4f1;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #ebd4f1;
   	color: purple;
 	font-size: 50px;
 	text-align: center;
