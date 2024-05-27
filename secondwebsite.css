@@ -9,7 +9,9 @@ h1
   	color: purple;
 	font-size: 50px;
 	text-align: center;
-	border: solid 5px #ebd4f1;
+	border: solid;
+	border: 5px;
+	border: #ebd4f1;
 }
 
 th, td 
