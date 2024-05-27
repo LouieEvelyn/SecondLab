@@ -6,12 +6,10 @@ body
 
 h1
 {
+	border: 5px solid #ebd4f1;
   	color: purple;
 	font-size: 50px;
 	text-align: center;
-	border: solid;
-	border: 5px;
-	border: #ebd4f1;
 }
 
 th, td 
