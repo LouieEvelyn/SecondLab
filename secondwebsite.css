@@ -29,9 +29,10 @@ div
 	margin: 25px;
 }
 
-.font
+.text
 {
 	font-family: "Courier New", Courier, monospace;
+	text-align: center;
 }
 
 .image
